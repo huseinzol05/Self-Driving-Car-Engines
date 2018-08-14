@@ -7,6 +7,7 @@ trying to cover signal processing, lane detection, color detection, and object d
 2. Simple straight lane detection
 3. Steering suggestion
 4. Multi-lane detection
+5. Multi-lane angle
 
 ## Results
 
@@ -21,3 +22,6 @@ trying to cover signal processing, lane detection, color detection, and object d
 
 4. Multi-lane detection
 ![alt text](multi-lane-detection/multi-lane-detection.png)
+
+5. Multi-lane angle
+![alt text](multi-lane-angle/multi-lane-angle.png)
