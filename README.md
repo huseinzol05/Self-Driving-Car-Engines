@@ -6,6 +6,7 @@ trying to cover signal processing, lane detection, color detection, and object d
 1. Signal processing (1D smoothing, 2D smoothing, convolution 2 signals, pass-filters)
 2. Simple straight lane detection
 3. Steering suggestion
+4. Multi-lane detection
 
 ## Results
 
@@ -17,3 +18,6 @@ trying to cover signal processing, lane detection, color detection, and object d
 
 3. Steering suggestion
 ![alt text](steering-suggestion/steering-suggestion.png)
+
+4. Multi-lane detection
+![alt text](multi-lane-detection/multi-lane-detection.png)
