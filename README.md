@@ -34,4 +34,4 @@ trying to cover signal processing, lane detection, color detection, and object d
 
 6. Curve-lane detection
 
-![alt text](curve-lane-detection/curve-lane-detection.jpg)
+![alt text](curve-lane-detection/curve-lane-detection.png)
