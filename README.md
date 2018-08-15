@@ -13,6 +13,7 @@ trying to cover signal processing, lane detection, color detection, and object d
 8. Object detection using Tensorflow
 9. Distance + Angle for object detection
 10. Traffic light detection
+11. OCR
 
 ## Results
 
