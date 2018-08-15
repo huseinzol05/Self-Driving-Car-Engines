@@ -9,6 +9,7 @@ trying to cover signal processing, lane detection, color detection, and object d
 4. Multi-lane detection
 5. Multi-lane angle
 6. Curve-lane detection
+7. Car detection using sliding + HOG + eXtreme Boosting
 
 ## Results
 
@@ -35,3 +36,7 @@ trying to cover signal processing, lane detection, color detection, and object d
 6. Curve-lane detection
 
 ![alt text](curve-lane-detection/curve-lane-detection.png)
+
+7. Car detection using sliding + HOG + eXtreme Boosting
+
+![alt text](car-detection-sliding-HOG-XGB/hog-xgb.png)
