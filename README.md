@@ -11,6 +11,7 @@ trying to cover signal processing, lane detection, color detection, and object d
 6. Curve-lane detection
 7. Car detection using sliding + HOG + eXtreme Boosting
 8. Object detection using Tensorflow
+9. Distance + Angle for object detection
 
 ## Results
 
@@ -45,3 +46,7 @@ trying to cover signal processing, lane detection, color detection, and object d
 8. Object detection using Tensorflow
 
 ![alt text](object-detection-tensorflow/object-detection-tensorflow.png)
+
+9. Distance + Angle for object detection
+
+![alt text](object-distance-angle/object-distance-angle.png)
