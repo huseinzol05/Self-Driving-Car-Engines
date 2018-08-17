@@ -15,6 +15,7 @@ trying to cover signal processing, lane detection, color detection, and object d
 10. Traffic light detection
 11. OCR
 12. Gradient Smoothing
+13. Lane Smoothing
 
 ## Results
 
@@ -61,3 +62,7 @@ trying to cover signal processing, lane detection, color detection, and object d
 12. Gradient Smoothing
 
 ![alt text](gradient-smoothing/gradient-smoothing.gif)
+
+13. Lane Smoothing
+
+![alt text](lane-smoothing/lane-smoothing.png)
