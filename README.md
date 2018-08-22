@@ -16,6 +16,7 @@ trying to cover signal processing, lane detection, color detection, and object d
 11. OCR
 12. Gradient Smoothing
 13. Lane Smoothing
+14. Car plate detection
 
 ## Results
 
