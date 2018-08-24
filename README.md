@@ -69,4 +69,6 @@ trying to cover signal processing, lane detection, color detection, and object d
 
 ![alt text](lane-smoothing/lane-smoothing.png)
 
-15. Dynamic
+15. Dynamic count lane detection
+
+![alt text](dynamic-count-lane/dynamic-count-lane.png)
