@@ -17,6 +17,7 @@ trying to cover signal processing, lane detection, color detection, and object d
 12. Gradient Smoothing
 13. Lane Smoothing
 14. Car plate detection
+15. Dynamic count lane detection
 
 ## Results
 
@@ -67,3 +68,5 @@ trying to cover signal processing, lane detection, color detection, and object d
 13. Lane Smoothing
 
 ![alt text](lane-smoothing/lane-smoothing.png)
+
+15. Dynamic
