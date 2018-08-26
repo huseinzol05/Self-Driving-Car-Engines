@@ -18,6 +18,7 @@ trying to cover signal processing, lane detection, color detection, and object d
 13. Lane Smoothing
 14. Car plate detection
 15. Dynamic count lane detection
+16. Signal Filtering
 
 ## Results
 
