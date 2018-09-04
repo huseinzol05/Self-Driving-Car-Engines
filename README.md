@@ -19,6 +19,7 @@ trying to cover signal processing, lane detection, color detection, and object d
 14. Car plate detection
 15. Dynamic count lane detection
 16. Signal Filtering
+17. Segmentation
 
 ## Results
 
@@ -77,3 +78,13 @@ trying to cover signal processing, lane detection, color detection, and object d
 16. Signal Filtering
 
 ![alt text](signal-filtering/signal-filtering.png)
+
+17. Segmentation
+
+VGG16 Road Segmentation
+
+![alt text](segmentation/vgg16.png)
+
+Mobilenet City Segmentation
+
+![alt text](segmentation/mobilenet.png)
