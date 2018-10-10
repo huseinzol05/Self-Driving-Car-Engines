@@ -92,4 +92,4 @@ Mobilenet City Segmentation
 
 18. Distance + Speed for object detection
 
-![alt text](object-distance-speed.gif)
+![alt text](object-distance-speed/object-distance-speed.gif)
