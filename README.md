@@ -20,6 +20,7 @@ trying to cover signal processing, lane detection, color detection, and object d
 15. Dynamic count lane detection
 16. Signal Filtering
 17. Segmentation
+18. Distance + Speed for object detection
 
 ## Results
 
@@ -88,3 +89,7 @@ VGG16 Road Segmentation
 Mobilenet City Segmentation
 
 ![alt text](segmentation/mobilenet.png)
+
+18. Distance + Speed for object detection
+
+![alt text](object-distance-speed.gif)
