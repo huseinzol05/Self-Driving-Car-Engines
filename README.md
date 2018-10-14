@@ -13,13 +13,12 @@ trying to cover signal processing, lane detection, color detection, and object d
 8. Object detection using Tensorflow
 9. Distance + Angle for object detection
 10. Traffic light detection
-11. OCR
-12. Gradient Smoothing
-13. Lane Smoothing
-14. Car plate detection
-15. Dynamic count lane detection
-16. Segmentation
-17. Distance + Speed for object detection
+11. Gradient Smoothing
+12. Lane Smoothing
+13. Dynamic count lane detection
+14. Segmentation
+15. Distance + Speed for object detection
+16. Plate detection
 
 ## Results
 
@@ -63,19 +62,19 @@ trying to cover signal processing, lane detection, color detection, and object d
 
 ![alt text](traffic-light-detection/traffic-light-detection.png)
 
-12. Gradient Smoothing
+11. Gradient Smoothing
 
 ![alt text](gradient-smoothing/gradient-smoothing.gif)
 
-13. Lane Smoothing
+12. Lane Smoothing
 
 ![alt text](lane-smoothing/lane-smoothing.png)
 
-15. Dynamic count lane detection
+13. Dynamic count lane detection
 
 ![alt text](dynamic-count-lane/dynamic-count-lane.png)
 
-16. Segmentation
+14. Segmentation
 
 VGG16 Road Segmentation
 
@@ -85,6 +84,10 @@ Mobilenet City Segmentation
 
 ![alt text](segmentation/mobilenet.png)
 
-17. Distance + Speed for object detection
+15. Distance + Speed for object detection
 
 ![alt text](object-distance-speed/object-distance-speed.gif)
+
+16. Plate detection
+
+![alt text](plate-detection/plate-detection.jpg)
