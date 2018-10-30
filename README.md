@@ -1,5 +1,6 @@
 # Self-Driving-Cars-Engine
-trying to cover signal processing, lane detection, color detection, and object detection for self-driving car purpose
+
+Gathers signal processing, computer vision, machine learning and deep learning for self-driving car engines.
 
 ## What-Done
 
