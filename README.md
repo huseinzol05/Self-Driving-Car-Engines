@@ -13,12 +13,12 @@ Gathers signal processing, computer vision, machine learning and deep learning f
 7. Car detection using sliding + HOG + eXtreme Boosting
 8. Object detection using Tensorflow
 9. Distance + Angle for object detection
-10. Traffic light detection
-11. Gradient Smoothing
-12. Lane Smoothing
-13. Dynamic count lane detection
-14. Segmentation
-15. Distance + Speed for object detection
+10. Distance + Speed for object detection
+11. Traffic light detection
+12. Gradient Smoothing
+13. Lane Smoothing
+14. Dynamic count lane detection
+15. Road Segmentation
 16. Plate detection
 
 ## Results
@@ -31,64 +31,64 @@ Gathers signal processing, computer vision, machine learning and deep learning f
 
 <img src="2.simple-straight-lane/simple-straight-lane-detection.png" width="70%" align="">
 
-3. Steering suggestion
+#### 3. [Steering suggestion](3.steering-suggestion)
 
-![alt text](steering-suggestion/steering-suggestion.png)
+<img src="3.steering-suggestion/steering-suggestion.png" width="70%" align="">
 
-4. Multi-lane detection
+#### 4. [Multi-lane detection](4.multi-lane-detection)
 
-![alt text](multi-lane-detection/multi-lane-detection.png)
+<img src="4.multi-lane-detection/multi-lane-detection.png" width="70%" align="">
 
-5. Multi-lane angle
+#### 5. [Multi-lane angle](5.multi-lane-angle)
 
-![alt text](multi-lane-angle/multi-lane-angle.png)
+<img src="5.multi-lane-angle/multi-lane-angle.png" width="70%" align="">
 
-6. Curve-lane detection
+#### 6. [Curve-lane detection](6.curve-lane-detection)
 
-![alt text](curve-lane-detection/curve-lane-detection.png)
+<img src="6.curve-lane-detection/curve-lane-detection.png" width="70%" align="">
 
-7. Car detection using sliding + HOG + eXtreme Boosting
+#### 7. [Car detection using sliding + HOG + eXtreme Boosting](7.car-detection-sliding-HOG-XGB)
 
-![alt text](car-detection-sliding-HOG-XGB/hog-xgb.png)
+<img src="7.car-detection-sliding-HOG-XGB/hog-xgb.png" width="70%" align="">
 
-8. Object detection using Tensorflow
+#### 8. [Object detection using Tensorflow](8.object-detection-tensorflow)
 
-![alt text](object-detection-tensorflow/object-detection-tensorflow.png)
+<img src="8.object-detection-tensorflow/object-detection-tensorflow.png" width="70%" align="">
 
-9. Distance + Angle for object detection
+#### 9. [Distance + Angle for object detection](9.object-distance-angle)
 
-![alt text](object-distance-angle/object-distance-angle.png)
+<img src="9.object-distance-angle/object-distance-angle.png" width="70%" align="">
 
-10. Traffic light detection
+#### 10. [Distance + Speed for object detection](9.object-distance-speed)
 
-![alt text](traffic-light-detection/traffic-light-detection.png)
+<img src="10.object-distance-speed/object-distance-speed.gif" width="70%" align="">
 
-11. Gradient Smoothing
+#### 11. [Traffic light detection](11.traffic-light-detection)
 
-![alt text](gradient-smoothing/gradient-smoothing.gif)
+<img src="11.traffic-light-detection/traffic-light-detection.png" width="70%" align="">
 
-12. Lane Smoothing
+#### 12. [Gradient Smoothing](12.gradient-smoothing)
 
-![alt text](lane-smoothing/lane-smoothing.png)
+<img src="12.gradient-smoothing/gradient-smoothing.gif" width="70%" align="">
 
-13. Dynamic count lane detection
+#### 13. [Lane Smoothing](13.lane-smoothing)
 
-![alt text](dynamic-count-lane/dynamic-count-lane.png)
+<img src="13.lane-smoothing/lane-smoothing.png" width="70%" align="">
 
-14. Segmentation
+#### 14. [Dynamic count lane detection](14.dynamic-count-lane)
+
+<img src="14.dynamic-count-lane/dynamic-count-lane.png" width="70%" align="">
+
+#### 15. [Road Segmentation](15.segmentation)
 
 VGG16 Road Segmentation
 
-![alt text](segmentation/vgg16.png)
+<img src="15.segmentation/vgg16.png" width="70%" align="">
 
 Mobilenet City Segmentation
 
-![alt text](segmentation/mobilenet.png)
+<img src="15.segmentation/mobilenet.png" width="70%" align="">
 
-15. Distance + Speed for object detection
+#### 16. [Plate detection](16.plate-detection)
 
-![alt text](object-distance-speed/object-distance-speed.gif)
-
-16. Plate detection
-
-![alt text](plate-detection/plate-detection.jpg)
+<img src="16.plate-detection/plate-detection.jpg" width="70%" align="">
