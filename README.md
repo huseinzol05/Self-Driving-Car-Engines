@@ -20,6 +20,7 @@ Gathers signal processing, computer vision, machine learning and deep learning f
 14. Dynamic count lane detection
 15. Road Segmentation
 16. Plate detection
+17. Image Augmentation for self-driving-cars
 
 ## Results
 
@@ -92,3 +93,7 @@ Mobilenet City Segmentation
 #### 16. [Plate detection](16.plate-detection)
 
 <img src="16.plate-detection/plate-detection.jpg" width="70%" align="">
+
+#### 17. [Image augmentation](17.augmentation)
+
+<img src="17.augmentation/augmentation.png" width="70%" align="">
