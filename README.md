@@ -25,7 +25,7 @@ Gathers signal processing, computer vision, machine learning and deep learning f
 
 1. Signal processing
 
-![alt text](signal-processing/smoothing.png)
+<img src="signal-processing/smoothing.png" width="70%" align="">
 
 2. simple straight lane detection
 
