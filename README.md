@@ -23,13 +23,13 @@ Gathers signal processing, computer vision, machine learning and deep learning f
 
 ## Results
 
-1. Signal processing
+#### 1. [Signal processing](1.signal-processing)
 
 <img src="1.signal-processing/smoothing.png" width="70%" align="">
 
-2. simple straight lane detection
+#### 2. [simple straight lane detection](2.simple-straight-lane)
 
-![alt text](simple-straight-lane/simple-straight-lane-detection.png)
+<img src="2.simple-straight-lane/simple-straight-lane-detection.png" width="70%" align="">
 
 3. Steering suggestion
 
