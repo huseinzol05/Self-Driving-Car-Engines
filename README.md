@@ -20,7 +20,8 @@ Gathers signal processing, computer vision, machine learning and deep learning f
 14. Dynamic count lane detection
 15. Road Segmentation
 16. Plate detection
-17. Image Augmentation for self-driving-cars
+17. Image Augmentation
+18. Lane Augmentation offroad
 
 ## Results
 
@@ -97,3 +98,7 @@ Mobilenet City Segmentation
 #### 17. [Image augmentation](17.augmentation)
 
 <img src="17.augmentation/augmentation.png" width="70%" align="">
+
+#### 18. [Lane Augmentation offroad](18.lane-augmentation-offroad)
+
+<img src="18.lane-augmentation-offroad/lane-augmentation.png" width="70%" align="">
