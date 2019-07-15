@@ -31,6 +31,7 @@
 16. [Plate detection](https://github.com/huseinzol05/Self-Driving-Car-Engines#16-plate-detection)
 17. [Image Augmentation](https://github.com/huseinzol05/Self-Driving-Car-Engines#17-image-augmentation)
 18. [Lane Augmentation offroad](https://github.com/huseinzol05/Self-Driving-Car-Engines#18-lane-augmentation-offroad)
+19. [Sensor fusion](https://github.com/huseinzol05/Self-Driving-Car-Engines#19-sensor-fusion)
 
 ## Results
 
@@ -113,3 +114,7 @@ Originally from https://github.com/UjjwalSaxena/Automold--Road-Augmentation-Libr
 #### 18. [Lane Augmentation offroad](18.lane-augmentation-offroad)
 
 <img src="18.lane-augmentation-offroad/lane-augmentation.png" width="70%" align="">
+
+#### 19. [Sensor fusion](19.sensor-fusion)
+
+<img src="19.sensor-fusion/output.gif" width="70%" align="">
