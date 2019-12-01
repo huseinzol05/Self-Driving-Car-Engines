@@ -122,4 +122,4 @@ Originally from https://github.com/UjjwalSaxena/Automold--Road-Augmentation-Libr
 
 #### 20. [Pykitti PCL](20.kitti-pcl)
 
-<img src="20.kitti-pcl/kitti.png" width="70%" align="">
+<img src="20.kitti-pcl/pykitti.png" width="70%" align="">
